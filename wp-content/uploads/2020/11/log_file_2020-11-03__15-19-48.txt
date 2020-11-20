@@ -1,0 +1,425 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/www/devoir%20ecommerce
+Data file = C:\xampp\htdocs\www\devoir ecommerce\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-wordpress.xml
+Widget file = C:\xampp\htdocs\www\devoir ecommerce\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-widgets.wie
+Customizer file = C:\xampp\htdocs\www\devoir ecommerce\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---Importing widgets---
+Sidebar : 
+
+Rechercher - No Title - Imported
+Articles récents - No Title - Imported
+Archives - No Title - Imported
+Catégories - No Title - Imported
+Méta - No Title - Imported
+
+FrontPage Top Widget Area : 
+
+TF: Products - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Ajax Product Search - No Title - Imported
+Filtrer les produits par prix - Filter by price - Imported
+Filtrer les produits par attribut - Filter by Color - Imported
+Filtrer les produits par attribut - Filter by Brands - Imported
+Filtrer les produits par attribut - Filter by Size - Imported
+Filtrer les produits par note obtenue - Filter By Rating - Imported
+Catégories de produit - Product categories - Imported
+Produits consultés récemment - Recently Viewed Products - Imported
+
+Product Sidebar : 
+
+Image - No Title - Imported
+Produits consultés récemment - Recently Viewed Products - Imported
+Wishlist - Wishlist - Imported
+Nuage d’étiquettes produits - Product tags - Imported
+
+FrontPage Products Widget Area : 
+
+TF: Products - Latest Products - Imported
+TF: Products - Featured Products - Imported
+TF: Products - On-Sale Products - Imported
+
+FrontPage Product Widget Area Column  : 
+
+Produits - Highest selling - Imported
+Produits - Random Products - Imported
+Produits - Lowest Price - Imported
+Produits - Highest Price - Imported
+
+Footer Widget Area Column 1 : 
+
+HTML personnalisé - No Title - Imported
+
+Footer Widget Area Column 2 : 
+
+Menu de navigation - Site Links - Imported
+
+Footer Widget Area Column 3 : 
+
+Galerie - New Products - Imported
+
+Footer Widget Area Column 4 : 
+
+Image - No Title - Imported
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+To make changes on Front Page go to Appearance -&gt; Customize

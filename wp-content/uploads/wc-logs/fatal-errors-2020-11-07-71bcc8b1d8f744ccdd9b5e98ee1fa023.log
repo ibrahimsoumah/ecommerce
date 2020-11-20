@@ -1,0 +1,4 @@
+2020-11-07T22:15:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-11-07T22:16:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-customize.php à la ligne 9
+

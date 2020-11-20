@@ -1,0 +1,12 @@
+2020-11-04T14:58:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-11-04T14:58:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-11-04T14:58:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 463
+
+2020-11-04T15:01:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 463
+
+2020-11-04T15:01:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-11-04T15:04:08+00:00 CRITICAL Maximum execution time of 300 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 163
+

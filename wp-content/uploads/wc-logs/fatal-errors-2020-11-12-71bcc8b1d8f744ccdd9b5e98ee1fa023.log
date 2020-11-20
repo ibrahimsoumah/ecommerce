@@ -1,0 +1,22 @@
+2020-11-12T12:22:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\pomo\streams.php à la ligne 153
+
+2020-11-12T12:22:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-content\plugins\weglot\vendor\weglot\simplehtmldom\src\simple_html_dom.php à la ligne 48
+
+2020-11-12T12:22:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-content\plugins\weglot\src\services\class-option-service-weglot.php à la ligne 5
+
+2020-11-12T12:23:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WC_Admin_Notes_Historical_Data.php à la ligne 10
+
+2020-11-12T12:23:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-content\plugins\elementor\modules\library\documents\section.php à la ligne 4
+
+2020-11-12T12:24:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 93
+
+2020-11-12T12:26:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\wp-db.php à la ligne 2033
+
+2020-11-12T12:27:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\wp-db.php à la ligne 2033
+
+2020-11-12T12:31:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 463
+
+2020-11-12T12:40:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 463
+
+2020-11-12T12:50:14+00:00 CRITICAL Maximum execution time of 300 seconds exceeded dans C:\xampp\htdocs\www\devoir ecommerce\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
